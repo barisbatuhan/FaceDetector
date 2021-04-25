@@ -14,8 +14,8 @@ The models are trained for 60 epochs and their average precision (AP) results ar
 - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/)
 - [iCartoonFace](https://github.com/luxiangju-PersonAI/iCartoonFace)
 - [Manga109](http://www.manga109.org/en/): 
-- 
-- No face detection benchmark was present for Manga109, so the data is randomly divided and a test data is constructed.
+
+No face detection benchmark was present for Manga109, so the data is randomly divided and a test data is constructed.
 
 R50 or R152 means that the model is trained either with the backbone ResNet50 or ResNet152. WF means the model is traned only with the WIDER FACE data, ICF means the same for iCartoonFace data and for the Mixed case, both of the datasets are used for training.
 
